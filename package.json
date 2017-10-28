@@ -1,0 +1,19 @@
+{
+  "name": "angular-js-boilerplate",
+  "version": "1.0.0",
+  "description": "boilerplate for angular.js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angularjs",
+    "angular"
+  ],
+  "author": "Kamil Naja",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.6",
+    "bootstrap": "^3.3.7"
+  }
+}
